@@ -19,3 +19,4 @@ while True:
     b = checar_valor(b)
 
     print("Resultado da soma é: ", a+b)
+#sadasdsada
