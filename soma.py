@@ -20,3 +20,9 @@ while True:
 
     print("Resultado da soma é: ", a+b)
     print('Resultado da divisão: ', a/b)
+    print("Resultado da subtração: ", a-b)
+
+
+#sadasdsada
+
+#outro test jira
