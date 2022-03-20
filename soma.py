@@ -11,10 +11,11 @@ def checar_valor(entrada):
     return int(correcao)
 
 
-a = input("Digita um valor: ")
-a = checar_valor(a)
+while True:
+    a = input("Digita um valor: ")
+    a = checar_valor(a)
 
-b = input("Digita outro valor: ")
-b = checar_valor(b)
+    b = input("Digita outro valor: ")
+    b = checar_valor(b)
 
-print("Resultado da soma é: ", a+b)
+    print("Resultado da soma é: ", a+b)
