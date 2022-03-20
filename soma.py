@@ -21,6 +21,7 @@ while True:
     print("Resultado da soma é: ", a+b)
     print('Resultado da divisão: ', a/b)
     print("Resultado da subtração: ", a-b)
+    print("Resultado da multiplicação é: ", a*b)
 
 
 #sadasdsada
