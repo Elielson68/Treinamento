@@ -19,4 +19,4 @@ while True:
     b = checar_valor(b)
 
     print("Resultado da soma é: ", a+b)
-    print("Resultado da divisão é: ", a/b)
+    print("Resultado da multiplicação é: ", a*b)
