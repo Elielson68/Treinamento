@@ -19,3 +19,9 @@ while True:
     b = checar_valor(b)
 
     print("Resultado da soma é: ", a+b)
+    print("Resultado da subtração: ", a-b)
+
+
+#sadasdsada
+
+#outro test jira
